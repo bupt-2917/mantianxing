@@ -7,7 +7,7 @@
 
 # 2 资料仓库
 
-相关资料仓库链接：https://gitee.com/hihope_iot/Hihope_Pegasus_Doc/tree/master 
+相关资料仓库链接：https://gitee.com/hihope_iot/HiHope_Pegasus_Doc
 ![image.png](https://harmonyos.oss-cn-beijing.aliyuncs.com/images/202203/e4befaa6825a85e4a7d385c12fcfe2bb082719.png?x-oss-process=image/resize,w_820,h_572)
 
 # 3 资料详情
