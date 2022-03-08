@@ -8,8 +8,6 @@
 
 **开发板**：润和Hi3861开发套件
 
-**代码仓库**：https://gitee.com/qidiyun/hihope-3861-smart-home-kit 
-
 **适合人群**：刚入门想学习OpenHarmony轻量系统的
 
 **难度**：简单
