@@ -39,6 +39,8 @@
 | 28 | 28_easy_wifi            | WiFi配网   |
 | 29 | 29_smart_night_light                      | 智能夜灯     |
 | 30 | 30_samart_environmental_monitoring_system | 环境监测安防报警 |
+| 31 | 31_NFC_C081  | C081型号的NFC  |
+| 32 | 32_iot_nfc  | 从知识体系上下载的NFC  |
 
 
 
