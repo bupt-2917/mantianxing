@@ -1,7 +1,8 @@
+基于OpenHarmony 1.1.3版本的例程，后续会更新到3.1LTS版本例程
+
 目前整理的例程有：
 
-【1】OpenHarmony 1.1.3版本的例程，总共30个
-![输入图片说明](https://harmonyos.oss-cn-beijing.aliyuncs.com/images/202203/43066b89558c993cdbf54540af9c86579d3cf4.png?x-oss-process=image/resize,w_820,h_688)
+
 
 后续会更新到最新版本代码
 例程说明：
