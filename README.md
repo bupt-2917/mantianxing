@@ -1,8 +1,8 @@
 # 1 开发套件介绍
 ![hihope_illustration](https://img-blog.csdnimg.cn/img_convert/424cb6f07bf76a0c653ed0cfcc6b994b.png)
-[润和满天星系列Pegasus鸿蒙开发套件](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w5003-23341819265.1.bf644a82Da9PZK&id=622343426064&scene=taobao_shop) 首发于HDC 2020，是首批支持HarmonyOS 2.0的开发套件，亦是鸿蒙官方推荐套件，由润和软件HiHope量身打造，已在鸿蒙社区和广大鸿蒙开发者中得到广泛应用。
+[润和满天星系列Pegasus鸿蒙开发套件](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w5003-23341819265.1.bf644a82Da9PZK&id=622343426064&scene=taobao_shop) 首发于HDC 2020，是首批支持OpenHarmony的开发套件，亦是鸿蒙官方推荐套件，由润和软件HiHope量身打造，已在鸿蒙社区和广大鸿蒙开发者中得到广泛应用。
 
-![wifi_iot](https://img-blog.csdnimg.cn/img_convert/f571647a7799a39200c5e1d79288ce1c.png)
+![输入图片说明](https://harmonyos.oss-cn-beijing.aliyuncs.com/images/202203/795f63b058ccfef973f6534b01069a19ec6672.png?x-oss-process=image/resize,w_820,h_678)
 
 # 2 资料仓库
 
