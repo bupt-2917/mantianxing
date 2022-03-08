@@ -17,7 +17,6 @@
 | 8  | 07_gpiobutton | 按键        |
 | 9  | 08_pwmled     | PWM控制LED灯 |
 | 9  | 09_adc           | ADC功能             |
-|----|------------------|-------------------|
 | 10 | 10_i2caht20      | 温湿度传感器            |
 | 11 | 11_uart          | 串口                |
 | 12 | 12_ssd1306       | OLED屏幕            |
@@ -27,3 +26,15 @@
 | 16 | 16_trafficlight  | 交通灯板              |
 | 17 | 17_colorfullight | 三色LED——PWM占空比控制颜色 |
 | 18 | 18_environment   | 环境监测板上外设          |
+| 19 | 19_wificonnect          | WiFi链接热点 |
+|----|-------------------------|----------|
+| 20 | 20_wifihotspot          | WiFi热点   |
+| 21 | 21_tcpclient            | TCP客户端   |
+| 22 | 22_tcpserver            | TCP服务器   |
+| 23 | 23_udpclient            | UDP客户端   |
+| 24 | 24_udpserver            | UDP服务器   |
+| 25 | 25_sntp                 | SNTP协议   |
+| 26 | 26_paho.mqtt.embedded-c | MQTT协议   |
+| 27 | 27_httpd                | HTPP协议   |
+| 28 | 28_easy_wifi            | WiFi配网   |
+
