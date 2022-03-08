@@ -27,7 +27,6 @@
 | 17 | 17_colorfullight | 三色LED——PWM占空比控制颜色 |
 | 18 | 18_environment   | 环境监测板上外设          |
 | 19 | 19_wificonnect          | WiFi链接热点 |
-|----|-------------------------|----------|
 | 20 | 20_wifihotspot          | WiFi热点   |
 | 21 | 21_tcpclient            | TCP客户端   |
 | 22 | 22_tcpserver            | TCP服务器   |
@@ -37,4 +36,8 @@
 | 26 | 26_paho.mqtt.embedded-c | MQTT协议   |
 | 27 | 27_httpd                | HTPP协议   |
 | 28 | 28_easy_wifi            | WiFi配网   |
+| 29 | 29_smart_night_light                      | 智能夜灯     |
+| 30 | 30_samart_environmental_monitoring_system | 环境监测安防报警 |
+
+
 
