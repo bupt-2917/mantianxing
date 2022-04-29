@@ -113,6 +113,9 @@ int StartHotspot(const HotspotConfig* config)
         err_t ret = netifapi_netif_set_addr(g_iface, &ipaddr, &netmask, &gateway);
         printf("netifapi_netif_set_addr: %d\r\n", ret);
 
+        ret = netifapi_dhcps_stop(g_iface); // 海思扩展的HDCP服务接口
+        printf("netifapi_dhcps_stop: %d\r\n", ret);
+
         ret = netifapi_dhcps_start(g_iface, 0, 0); // 海思扩展的HDCP服务接口
         printf("netifapi_dhcp_start: %d\r\n", ret);
     }
@@ -140,7 +143,7 @@ static void WifiHotspotTask(void *arg)
     WifiErrorCode errCode;
     HotspotConfig config = {0};
 
-    // 准备AP的配置参数
+    // 准备AP的配置参�?
     strcpy(config.ssid, "HiSpark-AP");
     strcpy(config.preSharedKey, "12345678");
     config.securityType = WIFI_SEC_TYPE_PSK;
